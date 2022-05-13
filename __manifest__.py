@@ -11,8 +11,8 @@
     'author': 'Rodrigo Lourenço',
     'depends': [],
     'data': [
-        'views/menu.xml',
         'views/student_view.xml',
+        'views/menu.xml',
     ],
     'demo': [],
     'sequence': -100,

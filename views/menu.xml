@@ -16,6 +16,7 @@
   <menuitem 
     id="menu_student"
     name="Student"
+    action="action_school_student"
     parent="menu_student_master"
     sequence="0"
   />
