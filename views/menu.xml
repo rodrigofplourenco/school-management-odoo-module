@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <odoo>
+  <!-- Root menu button and upbar -->
   <menuitem 
     id="menu_hospital_root"
     name="School"
@@ -11,14 +12,6 @@
     id="menu_student_master"
     name="Student Details"
     parent="menu_hospital_root"
-    sequence="0"
-  />
-
-  <menuitem 
-    id="menu_student"
-    name="Student"
-    action="action_school_student"
-    parent="menu_student_master"
     sequence="0"
   />
 </odoo>
