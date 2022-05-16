@@ -11,6 +11,7 @@
     'author': 'Rodrigo Lourenço',
     'depends': [],
     'data': [
+        'security/ir.model.access.csv',
         'views/student_view.xml',
         'views/menu.xml',
     ],
